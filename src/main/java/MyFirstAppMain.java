@@ -7,7 +7,7 @@ public class MyFirstAppMain {
         } catch (Exception e) {
             e.printStackTrace();
         } finally {
-            System.out.println("El método principal ha finalizado.");
+            System.out.println("The main method has finished.");
         }
     }
 }
